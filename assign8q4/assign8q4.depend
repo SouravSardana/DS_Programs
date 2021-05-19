@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619523779 source:e:\codeblocks\assign8q4\main.cpp
+	<iostream>
+	<unordered_set>
+

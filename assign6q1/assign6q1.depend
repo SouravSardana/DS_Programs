@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619333218 source:e:\codeblocks\assign6q1\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

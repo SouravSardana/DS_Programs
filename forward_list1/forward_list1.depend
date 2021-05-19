@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620711459 source:e:\codeblocks\forward_list1\main.cpp
+	<iostream>
+	<forward_list>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620827699 source:e:\codeblocks\recursion1q3\main.cpp
+	<iostream>
+	<math.h>
+
