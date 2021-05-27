@@ -1,3 +1,4 @@
+// Inoreder, Preorder, Postorder (with & without recursion)
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -48,6 +49,29 @@ void preorder(Node *root)
         current=current->right;
     }
 }
+void postorder(Node* root)
+{
+    Node* current = root;
+    stack<Node*> s1;
+    stack<Node*> s2;
+    s1.push(current);
+    while(!s1.empty())
+    {
+        s2.push(s1.top());
+        s1.pop();
+        if(current->left!=NULL)
+            s1.push(current->left);
+        if(current->right!=NULL)
+            s1.push(current->right);
+        if(!s1.empty())
+            current=s1.top();
+    }
+    while(!s2.empty())
+    {
+        cout<<s2.top()->data<<" ";
+        s2.pop();
+    }
+}
 void preorder_rec(Node* root)
 {
     if(root==NULL)
@@ -63,6 +87,14 @@ void inorder_rec(Node* root) //Inorder with recursion
     inorder_rec(root->left);
     cout<<root->data<<" ";
     inorder_rec(root->right);
+}
+void postorder_rec(Node* root)
+{
+    if(root==NULL)
+        return;
+    postorder_rec(root->left);
+    postorder_rec(root->right);
+    cout<<root->data<<" ";
 }
 int main()
 {
@@ -81,10 +113,16 @@ int main()
     cout<<"PREORDER: ";
     preorder(root);
     cout<<endl;
+    cout<<"POSTORDER: ";
+    postorder(root);
+    cout<<endl;
     cout<<"PREORDER WITH RECURSION: ";
     preorder_rec(root);
     cout<<endl;
     cout<<"INORDER WITH RECURSION: ";
     inorder_rec(root);
+    cout<<endl;
+    cout<<"POSTORDER WITH RECURSION: ";
+    postorder_rec(root);
     return 0;
 }
