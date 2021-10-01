@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/CheckParenthesis/GrowableStack.h
+iostream
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/CheckParenthesis/main.cpp
+GrowableStack.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/CheckParenthesis/GrowableStack.h
+iostream
+-
+string
+-
+
