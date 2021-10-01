@@ -1,0 +1,128 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.cpp
+Chaining.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.h
+HashFunctions.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+iostream
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.h
+LinkedList.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinkedList.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Dictionary.cpp
+Dictionary.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Dictionary.h
+HashFunctions.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+Chaining.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.h
+LinearProbing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.h
+DoubleHashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.h
+Universal_Hashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Universal_Hashing.h
+iostream
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Dictionary.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+Chaining.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.h
+LinearProbing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.h
+DoubleHashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.h
+Universal_Hashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Universal_Hashing.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.cpp
+DoubleHashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.h
+HashFunctions.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.cpp
+string
+-
+math.h
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+iostream
+-
+math.h
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.cpp
+LinearProbing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+HashFunctions.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.h
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinkedList.h
+iostream
+-
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.cpp
+iostream
+-
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+string
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Universal_Hashing.cpp
+Universal_Hashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Universal_Hashing.h
+HashFunctions.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/HashFunctions.h
+math.h
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Universal_Hashing.h
+string
+-
+
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/main.cpp
+Student.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Student.h
+Chaining.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Chaining.h
+LinearProbing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/LinearProbing.h
+DoubleHashing.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/DoubleHashing.h
+Dictionary.h
+I:/00_MCA_DU/Sem 2/01_Data_Structures/Assignments/StudentDictionary/Dictionary.h
+iostream
+-
+
